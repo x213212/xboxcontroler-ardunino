@@ -1,0 +1,10 @@
+﻿已經開始建置於 2015/5/16 下午 08:18:25。
+     1>節點 2 (Build 目標) 上的專案 "C:\Users\ck\Desktop\C++\SimpleController\SimpleController_2012.vcxproj"。
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\ck\Desktop\C++\Debug\SimpleController.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"C:\Users\ck\Desktop\C++\Debug\SimpleController.pdb" /SUBSYSTEM:WINDOWS /LARGEADDRESSAWARE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\ck\Desktop\C++\Debug\SimpleController.lib" /MACHINE:X86 /SAFESEH  Debug\SimpleController.obj
+         SimpleController_2012.vcxproj -> C:\Users\ck\Desktop\C++\Debug\SimpleController.exe
+     1>專案 "C:\Users\ck\Desktop\C++\SimpleController\SimpleController_2012.vcxproj" (Build 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:00.24
